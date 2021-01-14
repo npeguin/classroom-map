@@ -73,7 +73,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/corridor-map\/map.json#front_of_classroom"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
